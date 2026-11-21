@@ -12,3 +12,4 @@ Upload all five files to the repository root. In Settings → Pages, choose Depl
 - Privacy: https://tomobao.github.io/Toe-Bot/privacy.html
 
 Before publishing, verify that the privacy policy matches actual bot behavior, including hosting logs, libraries, data retention and sharing. Update the contact method if needed. Never commit bot tokens or credentials.
+https://discord.com/oauth2/authorize?client_id=1570325094415339581&permissions=84992&integration_type=0&scope=bot+applications.commands
